@@ -11,7 +11,7 @@ import {
   StyleSheet,
   ScrollView
 } from "react-native"
-import DateTimePicker from "react-native-datepicker"
+// import DateTimePicker from "react-native-datepicker"
 import Icon from "react-native-vector-icons/FontAwesome"
 import { CheckBox } from "react-native-elements"
 import { connect } from "react-redux"
